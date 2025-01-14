@@ -1,5 +1,5 @@
 # soumya-shree-portfolio
-##Introducation
+## Introducation
 I am a recent graduate with a Bachelor's in Physics (Hons.) from Delhi University. Currently I am involved in an independent research on solar flares by levaraging the data from XSM (Chandrayan 2) and SoLEXS (Aditya L1). This repository conatins certificates and documents related to my projects.
 
 ## Projects
