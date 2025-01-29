@@ -21,4 +21,4 @@ I am a recent graduate with a Bachelor's in Physics (Hons.) from Delhi Universit
 **[ROCKET AND AIRCRAFT DESIGN](https://drive.google.com/file/d/17F_n36x77WzXG4miw0l4Kkmej6Ldq-Bx/view?usp=sharing)**: Certificate by Bramhastra Aerospace.
 
 ## Links to independent research
-**[M6 Class February 12 2024 solar flare analysis](https://github.com/S0312-prog/flare_analysis_feb_12_24)**
+I will be updating this soon!
