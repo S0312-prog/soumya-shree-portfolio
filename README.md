@@ -14,11 +14,11 @@ I am a recent graduate with a Bachelor's in Physics (Hons.) from Delhi Universit
 ## Certificates
 **[ISRO internship certificate](https://drive.google.com/file/d/17nSFITZb3iEmEE3apLTnHoh0YJxMFnAV/view?usp=sharing)**: ISRO Internship and performance certificate.
 
-**[SAMBHAJ NGO Letter of Recommendation](https://drive.google.com/file/d/15VtEiqTnJ1UpCquxpMmKP_Gct0ecc5-R/view?usp=sharing)**: Letter of Recommendation recevied for excellent voluentering performance.
+**[SAMBHAJ NGO Letter of Recommendation](https://drive.google.com/file/d/15VtEiqTnJ1UpCquxpMmKP_Gct0ecc5-R/view?usp=sharing)**: Letter of appreciation recevied for excellent voluentering performance.
 
 **[INSPIRE Scholarship](https://drive.google.com/file/d/1472WGTudTrJKaNNnKDcHhLbUPvylsfdy/view?usp=sharing)**: Scholarship certificate.
 
-**[ROCKET AND AIRCRAFT DESIGN](https://drive.google.com/file/d/17F_n36x77WzXG4miw0l4Kkmej6Ldq-Bx/view?usp=sharing)**: Certificate by Bramhastra Aerospace.
+**[ROCKET AND AIRCRAFT DESIGN](https://drive.google.com/file/d/17F_n36x77WzXG4miw0l4Kkmej6Ldq-Bx/view?usp=sharing)**: Internship Certificate by Bramhastra Aerospace.
 
 ## Links to independent research
 I will be updating this soon!
