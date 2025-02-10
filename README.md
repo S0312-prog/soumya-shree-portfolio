@@ -1,8 +1,12 @@
 # Soumya Shree S
 
-Hi there!
+Hi there! 👋
 
-Welcome to my portfolio. I am Soumya Shree, and my name means "Goddess of kindness" in Sanskrit! I am a Physics graduate from Delhi University and a truly curious individual about the universe. In this portfolio, I have written about the most significant experiences from the pool of experiences I have had, which I believe have significantly changed my personality, motivations, and views for the better. At the end of this portfolio, I have provided links to some of my project reports and certificates of appreciation received. I hope you enjoy reading about my experiences!
+Welcome to my portfolio! I am Soumya Shree, and my name means "Goddess of Kindness" in Sanskrit. I am a Physics graduate from Delhi University, deeply curious about the universe and its mysteries.
+
+In this portfolio, I have shared some of the most transformative experiences that have shaped my perspectives, motivations, and aspirations. These experiences have not only deepened my passion for astrophysics but have also strengthened my adaptability, cross-cultural collaboration skills, and research capabilities.
+
+At the end of this portfolio, you will find links to my project reports and certificates of appreciation. I hope you enjoy reading about my journey! 😊
 
 ## My Academic Journey and Research Experiences
 ### A Childhood Fascination with the Cosmos
