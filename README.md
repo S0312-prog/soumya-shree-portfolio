@@ -52,7 +52,7 @@ My exposure to X-ray studies on solar flares has sparked a growing interest in t
 Through my academic journey, cultural exposure, research experiences, and international collaborations, I have developed the resilience, adaptability, and curiosity necessary to thrive in an interdisciplinary and diverse academic environment. The MASS program's commitment to international collaboration, cutting-edge research, and cultural diversity perfectly aligns with my aspirations. I am eager to contribute to and grow within this dynamic community, furthering my passion for astrophysics on a global scale.
 
 
-## Projects
+## Selected Projects
 **[Spectral Analysis of Solar Flare](https://drive.google.com/file/d/1T5QV25g9h8U0aI8Qr6uuv7dQGdlAvBKn/view?usp=drive_link)**: Internship report on spectral analysis using python and sherpa.
 
 **[Generating electrical energy using sound energy](https://drive.google.com/file/d/1j1e2K4QMSvXZY5qQQhH6TmV8yHmLM-cA/view?usp=sharing)**: 4th semester Skill Enhancement Course project report.
@@ -63,7 +63,7 @@ Through my academic journey, cultural exposure, research experiences, and intern
 
 **[Study of path traced by a globular cluster](https://drive.google.com/file/d/13JtS5ZvuquFAbLPrFzs7dcUWa_z-DcLs/view?usp=sharing)**: Self-Made Project using GRAVPOT16.
 
-## Certificates
+## Selected Certificates
 **[ISRO internship certificate](https://drive.google.com/file/d/17nSFITZb3iEmEE3apLTnHoh0YJxMFnAV/view?usp=sharing)**: ISRO Internship and performance certificate.
 
 **[SAMBHAJ NGO Letter of Recommendation](https://drive.google.com/file/d/15VtEiqTnJ1UpCquxpMmKP_Gct0ecc5-R/view?usp=sharing)**: Letter of appreciation recevied for excellent volunteering performance.
