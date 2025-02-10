@@ -1,10 +1,14 @@
-# Soumya Shree-Portfolio
+# Soumya Shree S
+
+Hi there!
+
+Welcome to my portfolio. I am Soumya Shree, and my name means "Goddess of kindness" in Sanskrit! I am a Physics graduate from Delhi University and a truly curious individual about the universe. In this portfolio, I have written about the most significant experiences from the pool of experiences I have had, which I believe have significantly changed my personality, motivations, and views for the better. At the end of this portfolio, I have provided links to some of my project reports and certificates of appreciation received. I hope you enjoy reading about my experiences!
 
 ## My Academic Journey and Research Experiences
 ### A Childhood Fascination with the Cosmos
 Looking up at the open sky, observing celestial phenomena from the unindustrialized outskirts of my hometown in southern India, left a profound and magnetic impact on me. It ignited a deep curiosity about the universe and a quest for knowledge on various astronomical phenomena.
 
-Driven by this passion, I have been searching for a program that offers an opportunity to study Gravitation and Cosmology, Stellar Astrophysics, and Exoplanets in an intellectually stimulating and culturally diverse environment. The Erasmus Mundus Astrophysics and Space Science (MASS) program aligns perfectly with these aspirations, providing an enriching experience through international collaboration and exposure.
+Driven by this passion, I have been searching for a program that offers an opportunity to study Gravitation and Cosmology, Stellar Astrophysics, and Exoplanets in an intellectually stimulating and culturally diverse environment. The EMJMD Masters in Astrophysics and Space Science (MASS) program aligns perfectly with these aspirations, providing an enriching experience through international collaboration and exposure.
 
 ### Diverse Learning and Cultural Exposure at Delhi University
 My undergraduate journey at Delhi University was marked by significant cultural and academic transitions. Because of the COVID-19 pandemic, my first semester took place entirely online. Moving to Delhi in my second semester was a challenging yet exciting experience, as I encountered extreme weather conditions and cultural differences. However, my enthusiasm for physics and the opportunity to interact with peers from across India outweighed these challenges.
