@@ -24,7 +24,7 @@ One of the most fulfilling experiences of my undergraduate journey was volunteer
 
 Teaching became a rewarding experience, not only enhancing my students' knowledge but also deepening my own understanding. The curiosity of young minds, reflected in their thought-provoking questions, often left me amazed at their potential. This experience instilled in me a strong commitment to mentorship and the importance of providing educational resources to underprivileged students.
 
-Many of my relatives in my hometown often questioned my decision to study in Delhi, citing cultural and lifestyle differences. My response was always inspired by an old Kannada saying: "Desha suttu nodu, kosha odi nodu", which translates to "Travel the world and study books alongside." Studying in a multicultural city like Delhi has given me the confidence that I can adapt and thrive in any part of the world.
+Many of my relatives in my hometown often questioned my decision to study in Delhi, citing cultural and lifestyle differences. My response was always inspired by an old Kannada saying: "Desha sutti nodu, kosha odi nodu", which translates to "Explore the world and indulge yourself in books to become a better individual." Studying in a multicultural city like Delhi has given me the confidence that I can adapt and thrive in any part of the world.
 
 ### ISRO-ISITE Internship – A Step Towards My Dream
 Interning at ISRO’s Space Astronomy Group (SAG department) was a dream come true, albeit partially—I aspire to contribute to ISRO as a researcher after completing my PhD. ISRO is India’s leading space research center, housing cutting-edge technology and brilliant scientists.
