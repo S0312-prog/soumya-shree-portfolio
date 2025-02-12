@@ -40,12 +40,12 @@ Embarking on independent research has been one of the most enriching experiences
 
 A pivotal turning point came when I attended the 'Astronomy from the Moon' conference at the Raman Research Institute (RRI). Engaging with leading astrophysicists and exploring novel research avenues reinvigorated my confidence. A particularly impactful conversation with Dr. Seetha provided me with invaluable guidance. When I asked her how one identifies the right field of research, she responded with a personal anecdote, emphasizing that true passion is when one becomes so immersed in work that time ceases to exist. Her words reassured me that I was on the right path, fueling my determination to persist in my research.
 
-Currently, I am expanding my work by incorporating MSS-1B and SDO (AIA) data to explore elemental abundance evolution studies, further deepening my understanding of the multifaceted nature of solar flares. Additionally, I am taking courses in general relativity in astrophysics, Bayesian statistics, and machine learning to expand my knowledge and skill sets required for modern-day astrophysics research.
+Currently, I am expanding my work by incorporating MSS 1B, STIX (Solar Orbiter) and SDO (AIA) data to explore elemental abundance evolution studies, further deepening my understanding of the multifaceted nature of solar flares. Additionally, I am taking courses in general relativity in astrophysics, bayesian statistics, and machine learning to expand my knowledge and skill sets required for modern-day astrophysics research.
 
 #### International Collaboration in Research – Solving a Calibration Challenge
 While working on the calibration of MSS-1B data, I encountered a significant challenge in calculating detector efficiency due to a lack of access to crucial mass attenuation constants. With my supervisor unavailable, I turned to references cited in the MSS-1B calibration research paper for potential leads.
 
-This search led me to the work of Dr. E. M. Gullikson, whose research utilized the exact constants I needed. I reached out to him via email, explaining my challenge and seeking guidance. To my surprise, Dr. Gullikson responded and provided the necessary guidance, enabling me to successfully complete the calibration.
+This search led me to the work of **[Dr. E. M. Gullikson](https://scholar.google.com/citations?user=KOGh60AAAAAJ&hl=en)**, whose research utilized the exact constants I needed. I reached out to him via email, explaining my challenge and seeking guidance. To my surprise, Dr. Gullikson responded and provided the necessary guidance, enabling me to successfully complete the calibration.
 
 This experience underscored the importance of international collaboration in astrophysics research. It reinforced my belief that scientific progress thrives on global knowledge exchange and that reaching out to experts can be instrumental in overcoming research hurdles.
 
@@ -53,7 +53,7 @@ This experience underscored the importance of international collaboration in ast
 My exposure to X-ray studies on solar flares has sparked a growing interest in the application of X-ray astronomy to study compact objects such as black holes. As a result, I have been delving into research on magnetars, particularly the work of Dr. Ilaria Caiazzo at ISTA. Her study "**[Polarized X-rays from a Magnetar](https://www.science.org/doi/10.1126/science.add0080)**"—which utilizes IXPE's polarization data to explore resonant cyclotron scattering and QED vacuum birefringence, has been especially captivating. I aspire to explore this field further, leveraging my skills and experiences to contribute meaningfully to astrophysics research.
 
 ### Conclusion
-Through my academic journey, cultural exposure, research experiences, and international collaborations, I have developed the resilience, adaptability, and curiosity necessary to thrive in an interdisciplinary and diverse academic environment. The MASS program's commitment to international collaboration, cutting-edge research, and cultural diversity perfectly aligns with my aspirations. I am eager to contribute to and grow within this dynamic community, furthering my passion for astrophysics on a global scale.
+Through my academic journey, cultural exposure, research experiences, and international collaborations, I have developed the resilience, adaptability, and curiosity necessary to thrive in an interdisciplinary and diverse academic environment like MASS. The MASS program's commitment to international collaboration, cutting-edge research, and cultural diversity perfectly aligns with my aspirations. I am eager to contribute to and grow within this dynamic community, furthering my passion for astrophysics on a global scale.
 
 
 ## Selected Projects
